@@ -1,0 +1,63 @@
+[submodule "puppet-neutron"]
+	path = puppet-neutron
+	url = https://review.openstack.org/stackforge/puppet-neutron
+[submodule "puppet-nova"]
+	path = puppet-nova
+	url = https://review.openstack.org/stackforge/puppet-nova
+[submodule "puppet-cinder"]
+	path = puppet-cinder
+	url = https://review.openstack.org/stackforge/puppet-cinder
+[submodule "puppet-ceilometer"]
+	path = puppet-ceilometer
+	url = https://review.openstack.org/stackforge/puppet-ceilometer
+[submodule "puppet-heat"]
+	path = puppet-heat
+	url = https://review.openstack.org/stackforge/puppet-heat
+[submodule "puppet-designate"]
+	path = puppet-designate
+	url = https://review.openstack.org/stackforge/puppet-designate
+[submodule "puppet-glance"]
+	path = puppet-glance
+	url = https://review.openstack.org/stackforge/puppet-glance
+[submodule "puppet-gnocchi"]
+	path = puppet-gnocchi
+	url = https://review.openstack.org/stackforge/puppet-gnocchi
+[submodule "puppet-ironic"]
+	path = puppet-ironic
+	url = https://review.openstack.org/stackforge/puppet-ironic
+[submodule "puppet-keystone"]
+	path = puppet-keystone
+	url = https://review.openstack.org/stackforge/puppet-keystone
+[submodule "puppet-manila"]
+	path = puppet-manila
+	url = https://review.openstack.org/stackforge/puppet-manila
+[submodule "puppet-sahara"]
+	path = puppet-sahara
+	url = https://review.openstack.org/stackforge/puppet-sahara
+[submodule "puppet-swift"]
+	path = puppet-swift
+	url = https://review.openstack.org/stackforge/puppet-swift
+[submodule "puppet-tripleo"]
+	path = puppet-tripleo
+	url = https://review.openstack.org/stackforge/puppet-tripleo
+[submodule "puppet-trove"]
+	path = puppet-trove
+	url = https://review.openstack.org/stackforge/puppet-trove
+[submodule "puppet-tuskar"]
+	path = puppet-tuskar
+	url = https://review.openstack.org/stackforge/puppet-tuskar
+[submodule "puppet-openstacklib"]
+	path = puppet-openstacklib
+	url = https://review.openstack.org/stackforge/puppet-openstacklib
+[submodule "puppet-openstack_extras"]
+	path = puppet-openstack_extras
+	url = https://review.openstack.org/stackforge/puppet-openstack_extras
+[submodule "puppet-horizon"]
+	path = puppet-horizon
+	url = https://review.openstack.org/stackforge/puppet-horizon
+[submodule "puppet-tempest"]
+	path = puppet-tempest
+	url = https://review.openstack.org/stackforge/puppet-tempest
+[submodule "puppet-vswitch"]
+	path = puppet-vswitch
+	url = https://review.openstack.org/stackforge/puppet-vswitch
